@@ -10,6 +10,11 @@
     "e2e:headless": "start-server-and-test dev http://localhost:3000 cypress:headless"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/lab": "^5.0.0-alpha.103",
+    "@mui/material": "^5.10.9",
+    "axios": "^1.1.2",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
